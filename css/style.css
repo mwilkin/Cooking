@@ -1,0 +1,8 @@
+p.img-toggle {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+p.img-toggle .hover {
+  text-decoration: underline;
+}
